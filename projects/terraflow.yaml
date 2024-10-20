@@ -1,12 +1,24 @@
 name: ProjectName  # required
 tagline: Project Tagline # optional
-showcaseUrl: https://website.domain/project/path  # required
-sourceCodeUrl: https://github.com/userOrOrg/projectName # required
-liveDemoUrl: https://demo.site/  # optional
+showcaseUrl: n/a
+sourceCodeUrl: https://github.com/SuhaanSyed/TerraFlow/ # required
+liveDemoUrl:
 social: # optional
-  x: handle
-  github: name
+  x: 
+  github: https://github.com/SuhaanSyed/
 team: # optional
   -
-    name: Member 1
-    github: username1
+    name: Suhaan
+    github: SuhaanSyed
+
+    name: Nimra
+    github: NimraSyed
+
+    name: Rahul
+    github: rahuld707
+
+    name: Nischay
+    github: LegendaryPenguin
+
+    name: Ayaan
+    githun: AyaanLakhani
